@@ -24,7 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/my-design.png)
+![my-design](https://user-images.githubusercontent.com/75842719/152148583-fc8714c6-cec5-49f5-88b9-57bb124e2cfe.PNG)
+
 
 ### Links
 
